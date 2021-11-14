@@ -4,7 +4,7 @@
   "private": true,
   "description": "A Probot app",
   "author": "Thomas Erhel <thomas.erhel@gmail.com>",
-  "license": "ISC",
+  "license": "GNU GPL v3",
   "homepage": "https://github.com/monproweb/mpw-github-bot",
   "keywords": [
     "probot",
@@ -16,11 +16,11 @@
     "test": "jest"
   },
   "dependencies": {
-    "probot": "^11.0.1"
+    "probot": "^12.1.1"
   },
   "devDependencies": {
-    "jest": "^26.6.3",
-    "nock": "^13.0.5",
+    "jest": "^27.3.1",
+    "nock": "^13.2.1",
     "smee-client": "^1.2.2"
   },
   "engines": {

@@ -30,4 +30,4 @@ For more, check out the [Contributing Guide](CONTRIBUTING.md).
 
 ## License
 
-[ISC](LICENSE) © 2021 Thomas Erhel <thomas.erhel@gmail.com>
+[GNU GPL v3](LICENSE) © 2021 Thomas Erhel <thomas.erhel@gmail.com>
